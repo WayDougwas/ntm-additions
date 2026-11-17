@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["WGW", "WCW", "WBW"],
+  "key": {
+    "W": { "tag": "c:ingots/aluminium" },
+    "G": { "item": "hbm:gas_mask_filter" },
+    "C": { "tag": "c:ingots/asbestos" },
+    "B": { "item": "hbm:circuit_analog" }
+  },
+  "result": { "id": "ntmadditions:lung_tester" }
+}

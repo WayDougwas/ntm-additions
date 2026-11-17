@@ -1,0 +1,23 @@
+{
+  "curios.identifier.geiger": "Contador Geiger",
+  "curios.modifiers.geiger": "Quando equipado:",
+  "curios.identifier.pollution": "Detector de Poluição",
+  "curios.modifiers.pollution": "Quando equipado:",
+  "curios.identifier.mask": "Máscara de Gás",
+  "curios.modifiers.mask": "Quando equipado:",
+  "item.ntmadditions.lung_tester": "Testador de Pulmão",
+  "item.ntmadditions.lung_tester.desc": "Clique direito para examinar seus pulmões, ou clique direito em um mob/jogador para examinar os dele.",
+  "ntmadditions.lung_scanner.title": "Diagnóstico Pulmonar",
+  "ntmadditions.lung_scanner.asbestos": "Saúde Pulmonar [Asbesto]:",
+  "ntmadditions.lung_scanner.coal": "Saúde Pulmonar [Carvão]:",
+  "ntmadditions.lung_scanner.total": "Saúde Pulmonar Total:",
+  "ntmadditions.lung_scanner.mku": "Teste MKU: ",
+  "ntmadditions.lung_scanner.mku_duration": "Morte em:",
+  "ntmadditions.lung_scanner.pos": "Positivo",
+  "ntmadditions.lung_scanner.neg": "Negativo",
+  "ntmadditions.configuration.title": "NTM Additions",
+  "ntmadditions.configuration.hideHelmetOverlay": "Esconder overlay de capacete/máscara",
+  "ntmadditions.configuration.hideHelmetOverlay.tooltip": "Esconde completamente o efeito de visor / máscara de gás do HBM.",
+  "ntmadditions.configuration.curioMaskOverlay": "Overlay da máscara no Curios",
+  "ntmadditions.configuration.curioMaskOverlay.tooltip": "Mostra o efeito de visor da máscara equipada no slot de máscara do Curios."
+}

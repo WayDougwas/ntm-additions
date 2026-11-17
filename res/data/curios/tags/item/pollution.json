@@ -1,0 +1,6 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "hbm:pollution_detector", "required": false }
+  ]
+}

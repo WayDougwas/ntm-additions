@@ -1,0 +1,23 @@
+{
+  "curios.identifier.geiger": "Geiger",
+  "curios.modifiers.geiger": "When worn:",
+  "curios.identifier.pollution": "Pollution Detector",
+  "curios.modifiers.pollution": "When worn:",
+  "curios.identifier.mask": "Gas Mask",
+  "curios.modifiers.mask": "When worn:",
+  "item.ntmadditions.lung_tester": "Lung Tester",
+  "item.ntmadditions.lung_tester.desc": "Right-click to scan your lungs, or right-click a mob/player to scan theirs.",
+  "ntmadditions.lung_scanner.title": "Lung Diagnostic",
+  "ntmadditions.lung_scanner.asbestos": "Lung Health [Asbestos]:",
+  "ntmadditions.lung_scanner.coal": "Lung Health [Coal]:",
+  "ntmadditions.lung_scanner.total": "Lung Health Total:",
+  "ntmadditions.lung_scanner.mku": "MKU Test: ",
+  "ntmadditions.lung_scanner.mku_duration": "Death in:",
+  "ntmadditions.lung_scanner.pos": "Positive",
+  "ntmadditions.lung_scanner.neg": "Negative",
+  "ntmadditions.configuration.title": "NTM Additions",
+  "ntmadditions.configuration.hideHelmetOverlay": "Hide helmet / mask overlay",
+  "ntmadditions.configuration.hideHelmetOverlay.tooltip": "Hide HBM's fullscreen visor / gas mask overlay completely.",
+  "ntmadditions.configuration.curioMaskOverlay": "Overlay for Curios mask",
+  "ntmadditions.configuration.curioMaskOverlay.tooltip": "Show the visor overlay of a gas mask worn in the Curios mask slot."
+}

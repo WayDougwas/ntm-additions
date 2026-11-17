@@ -1,0 +1,9 @@
+{
+  "required": false,
+  "minVersion": "0.8",
+  "package": "com.xorume.ntmadditions.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": ["ArmorFSBMixin", "ArmorRegistryMixin", "ArmorUtilMixin"],
+  "client": ["RadCounterOverlayMixin", "HelmetOverlayMixin"],
+  "injectors": { "defaultRequire": 0 }
+}

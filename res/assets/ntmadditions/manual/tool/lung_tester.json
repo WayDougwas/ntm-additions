@@ -1,0 +1,21 @@
+{
+	"name": "Lung Tester",
+	"icon": [
+		"ntmadditions:lung_tester",
+		1,
+		0
+	],
+	"trigger": [
+		[
+			"ntmadditions:lung_tester"
+		]
+	],
+	"title": {
+		"en_us": "Lung Tester",
+		"pt_br": "Testador de Pulmão"
+	},
+	"content": {
+		"en_us": "The Lung Tester is a handheld diagnostic device that checks the state of the lungs. Right-click to scan yourself, or right-click another player or mob to scan them. The results show up in chat.<br><br>§eLung Health [Asbestos]§r - damage from breathing asbestos dust. It builds up when you handle asbestos or stand near it without a gas mask that protects against particles.<br><br>§eLung Health [Coal]§r - black lung, caused by breathing coal dust (mining coal, coal dust clouds, burning machines). Coal-rated gas mask filters prevent it.<br><br>§eLung Health Total§r - both values combined. 100% is a perfectly healthy pair of lungs. The lower it gets, the worse the symptoms become, and at 0% the lungs give out.<br><br>§eMKU Test§r - shows whether the target is infected with MKU. If the test is positive, it also shows how long the target has left to live.<br><br>Colors: green is healthy, yellow and orange mean damage is building up, and red means the lungs are in critical condition.<br><br>Recipe: aluminium ingots, a gas mask filter, an asbestos ingot and an analog circuit.",
+		"pt_br": "O Testador de Pulmão é um aparelho portátil de diagnóstico que verifica o estado dos pulmões. Clique com o botão direito para examinar a si mesmo, ou clique com o botão direito em outro jogador ou mob para examiná-lo. O resultado aparece no chat.<br><br>§eSaúde Pulmonar [Asbesto]§r - dano por respirar pó de asbesto. Acumula quando você manuseia asbesto ou fica perto dele sem uma máscara de gás que proteja contra partículas.<br><br>§eSaúde Pulmonar [Carvão]§r - pulmão negro, causado por respirar pó de carvão (minerar carvão, nuvens de pó de carvão, máquinas queimando carvão). Filtros de máscara de gás próprios para carvão evitam isso.<br><br>§eSaúde Pulmonar Total§r - os dois valores combinados. 100% são pulmões perfeitamente saudáveis. Quanto menor o valor, piores os sintomas, e em 0% os pulmões param de funcionar.<br><br>§eTeste MKU§r - mostra se o alvo está infectado com MKU. Se o teste der positivo, mostra também quanto tempo de vida o alvo ainda tem.<br><br>Cores: verde é saudável, amarelo e laranja indicam dano acumulando, e vermelho indica estado crítico.<br><br>Receita: lingotes de alumínio, um filtro de máscara de gás, um lingote de asbesto e um circuito analógico."
+	}
+}

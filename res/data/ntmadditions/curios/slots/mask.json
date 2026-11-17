@@ -1,0 +1,7 @@
+{
+  "size": 1,
+  "order": 4,
+  "icon": "ntmadditions:slot/empty_mask_slot",
+  "add_cosmetic": false,
+  "validators": ["curios:tag"]
+}
