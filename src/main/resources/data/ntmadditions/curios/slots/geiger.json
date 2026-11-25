@@ -1,0 +1,7 @@
+{
+  "size": 1,
+  "order": 5,
+  "icon": "ntmadditions:slot/empty_geiger_slot",
+  "add_cosmetic": false,
+  "validators": ["curios:tag"]
+}

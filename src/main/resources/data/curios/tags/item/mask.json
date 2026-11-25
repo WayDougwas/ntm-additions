@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "hbm:gas_mask", "required": false },
+    { "id": "hbm:gas_mask_m65", "required": false },
+    { "id": "hbm:gas_mask_mono", "required": false },
+    { "id": "hbm:gas_mask_olde", "required": false },
+    { "id": "hbm:mask_rag", "required": false },
+    { "id": "hbm:mask_piss", "required": false }
+  ]
+}

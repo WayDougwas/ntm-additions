@@ -1,0 +1,7 @@
+{
+  "size": 1,
+  "order": 6,
+  "icon": "ntmadditions:slot/empty_pollution_slot",
+  "add_cosmetic": false,
+  "validators": ["curios:tag"]
+}
