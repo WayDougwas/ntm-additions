@@ -1,11 +1,13 @@
 modLoader = "javafml"
 loaderVersion = "[4,)"
 license = "MIT"
+issueTrackerURL = "https://github.com/WayDougwas/ntm-additions/issues"
 
 [[mods]]
 modId = "ntmadditions"
 version = "${mod_version}"
 displayName = "NTM Additions"
+displayURL = "https://github.com/WayDougwas/ntm-additions"
 logoFile = "ntmadditions_logo.png"
 description = '''Addon for NTM - Continuum: Curios slots for the Geiger Counter, Dosimeter, Pollution Detector and gas masks (all working from the slot), a config to hide the visor overlay, a Jade/overlay fix, and the Lung Tester (port of HBM Extended's Lung Diagnostic) with an F1 guide page.'''
 
